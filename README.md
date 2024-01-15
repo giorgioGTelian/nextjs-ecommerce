@@ -38,4 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## timestamp
 
-[1:14](https://www.youtube.com/watch?v=K4ziF0MhbLc)
+[16:02](https://www.youtube.com/watch?v=K4ziF0MhbLc)
