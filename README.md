@@ -38,4 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## timestamp
 
-[16:02](https://www.youtube.com/watch?v=K4ziF0MhbLc)
+[29:19](https://www.youtube.com/watch?v=K4ziF0MhbLc) - setting up mongo db
